@@ -13,4 +13,4 @@ Welcome to CSVinsight - where data becomes a story! This project aims to provide
 `streamlit run app.py`
 
 
-![Demo_Image](https://drive.google.com/file/d/1mtlW-qY8rjjzAeN87G2z7GjRs3s_tYdN/view?usp=drive_link)
+![Demo_Image](https://drive.google.com/file/d/1mtlW-qY8rjjzAeN87G2z7GjRs3s_tYdN/view?usp=sharing)
