@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "csv-insight"
+version = "0.1.0"
+description = ""
+authors = ["Manasforcebolt <manas.chauhan@cloudanalogy.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.12"
+langchain = "^0.0.345"
+torch = "2.1.0"
+sentence-transformers = "^2.2.2"
+streamlit = "^1.29.0"
+streamlit-chat = "^0.1.1"
+faiss-cpu = "^1.7.4"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
