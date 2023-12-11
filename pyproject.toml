@@ -6,7 +6,7 @@ authors = ["Manasforcebolt <manas.chauhan@cloudanalogy.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.10.12"
+python = "3.9.18"
 langchain = "^0.0.345"
 torch = "2.1.0"
 sentence-transformers = "^2.2.2"
